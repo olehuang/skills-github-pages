@@ -1,4 +1,4 @@
 ---
-title: Welcome to my first GitHub page
+title: Welcome to my GitHub page
 ---
 
